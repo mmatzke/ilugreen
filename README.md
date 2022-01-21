@@ -1,4 +1,4 @@
-# iluminaGreen
+# illuminaGreen
 
 A new way of lighting up moos
 

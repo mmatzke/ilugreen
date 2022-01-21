@@ -1,4 +1,4 @@
-# green illumina
+# green-illumina
 
 A new way of lighting up moos
 

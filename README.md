@@ -1,6 +1,6 @@
 # ilugreen
 
-A new way of lighting up moos
+A new way of lighting up moss
 
 ## Nature ...
 <p align="center">
